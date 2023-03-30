@@ -1,0 +1,11 @@
+*{
+    text-decoration: none;
+
+}
+b {
+    color: darkorchid;
+    font-size: 30px;
+}
+#dadospessoais li b {
+   font-size: 17px;
+}
